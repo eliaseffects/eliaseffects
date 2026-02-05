@@ -38,12 +38,6 @@ Founder of **[Reality Shifting Tech](https://realityshifting.tech)** — a dev a
 
 ---
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/eliaseffects)
-
----
-
 ## What I'm Doing
 
 - **Building with AI-native workflows** - Using agent tooling to move from idea to shipped product fast
