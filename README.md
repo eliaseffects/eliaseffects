@@ -16,7 +16,8 @@
 Founder of **[Reality Shifting Tech](https://realityshifting.tech)** — a dev agency building web apps, mobile apps, blockchain tools, AR filters, and AI-powered experiences for creators and brands.
 
 140K on Instagram ([@elias.effects](https://instagram.com/elias.effects)) from VFX work.
-135K on TikTok, mainly from AR filters. Now shipping software at ludicrous speed.
+135K on TikTok ([@elias.effects](https://www.tiktok.com/@elias.effects)) mainly from AR filters.
+Now shipping software at ludicrous speed.
 
 ---
 
