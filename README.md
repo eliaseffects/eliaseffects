@@ -23,6 +23,7 @@ Now shipping software at ludicrous speed.
 
 ## Current Projects
 
+- 🧠 **[stack-detector](https://github.com/eliaseffects/stack-detector)** — One-click scanner that reveals a website's stack, builder/platform, hosting, security posture, and third-party tooling.
 - 🔲 **[qr-cli](https://github.com/eliaseffects/qr-cli)** — Blazingly fast QR code generator for your terminal. Built in Go.
 
 ---
