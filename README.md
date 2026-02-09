@@ -23,9 +23,9 @@ Now shipping software at ludicrous speed.
 
 ## Current Projects
 
+- 🐦 **[x-api-cli](https://github.com/eliaseffects/x-api-cli)** — Node.js CLI for posting and deleting tweets using the official X API v2.
 - 🧠 **[stack-detector](https://github.com/eliaseffects/stack-detector)** — One-click website stack scanner.
 - 🔲 **[qr-cli](https://github.com/eliaseffects/qr-cli)** — Blazingly fast QR code generator for your terminal. Built in Go.
-- 🐦 **[x-api-cli](https://github.com/eliaseffects/x-api-cli)** — Node.js CLI for posting and deleting tweets using the official X API v2.
 
 ---
 
