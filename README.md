@@ -23,6 +23,7 @@ Now shipping software at ludicrous speed.
 
 ## Current Projects
 
+- 🐾 **[clawtally](https://github.com/eliaseffects/clawtally)** — Read-only telemetry dashboard for OpenClaw with local gateway connection, usage visualizations, and optional anonymized leaderboard sharing.
 - 📄 **[llms-txt-generator](https://github.com/eliaseffects/llms-txt-generator)** — Turn docs into agent-ready discovery files (`llms.txt` + `agent.json`).
 - 🐦 **[x-api-cli](https://github.com/eliaseffects/x-api-cli)** — Node.js CLI for posting and deleting tweets using the official X API v2.
 - 🧠 **[stack-detector](https://github.com/eliaseffects/stack-detector)** — One-click website stack scanner.
