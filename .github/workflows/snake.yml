@@ -7,27 +7,25 @@ on:
   push:
     branches: ["main"]
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-snake.svg?color_snake=8b5cf6&color_dots=ebe9f6,d8d3ef,c0b8e6,a89be0,8b5cf6
-            output/github-snake-dark.svg?color_snake=a78bfa&color_dots=161b22,262335,3a3266,5a4bb0,8b5cf6
+            dist/github-snake.svg?color_snake=8b5cf6&color_dots=ebe9f6,d8d3ef,c0b8e6,a89be0,8b5cf6
+            dist/github-snake-dark.svg?color_snake=a78bfa&color_dots=161b22,262335,3a3266,5a4bb0,8b5cf6
 
-      - name: Push to output branch
-        uses: Platane/snk/action/push@master
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch_name: output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
