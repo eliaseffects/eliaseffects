@@ -27,7 +27,7 @@ jobs:
             output/github-snake-dark.svg?color_snake=a78bfa&color_dots=161b22,262335,3a3266,5a4bb0,8b5cf6
 
       - name: Push to output branch
-        uses: Platane/snk/action/push@v3
+        uses: Platane/snk/action/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch_name: output
