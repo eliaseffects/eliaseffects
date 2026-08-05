@@ -135,11 +135,11 @@
 
 | Project | What it does | Stars |
 | --- | --- | --- |
-| [`qr-cli`](https://github.com/eliaseffects/qr-cli) | Blazingly fast QR code generator for your terminal. Built in Go. | ![](https://img.shields.io/github/stars/eliaseffects/qr-cli?style=flat-square&logo=github&label=&color=E7FF02) |
-| [`x-api-cli`](https://github.com/eliaseffects/x-api-cli) | CLI for posting and deleting tweets using official X API v2 (OAuth 1.0a user tokens). | ![](https://img.shields.io/github/stars/eliaseffects/x-api-cli?style=flat-square&logo=github&label=&color=E7FF02) |
-| [`llms-txt-generator`](https://github.com/eliaseffects/llms-txt-generator) | Turn docs into agent-ready discovery files (`llms.txt` + `agent.json`). | ![](https://img.shields.io/github/stars/eliaseffects/llms-txt-generator?style=flat-square&logo=github&label=&color=E7FF02) |
-| [`stack-detector`](https://github.com/eliaseffects/stack-detector) | One-click website stack scanner. | ![](https://img.shields.io/github/stars/eliaseffects/stack-detector?style=flat-square&logo=github&label=&color=E7FF02) |
-| [`clawtally`](https://github.com/eliaseffects/clawtally) | Read-only telemetry dashboard for OpenClaw with local-first usage insights. | ![](https://img.shields.io/github/stars/eliaseffects/clawtally?style=flat-square&logo=github&label=&color=E7FF02) |
+| [`qr-cli`](https://github.com/eliaseffects/qr-cli) | Blazingly fast QR code generator for your terminal. Built in Go. | ![](https://img.shields.io/github/stars/eliaseffects/qr-cli?style=flat-square&logo=github&logoColor=0C0C0C&label=&color=E7FF02) |
+| [`x-api-cli`](https://github.com/eliaseffects/x-api-cli) | CLI for posting and deleting tweets using official X API v2 (OAuth 1.0a user tokens). | ![](https://img.shields.io/github/stars/eliaseffects/x-api-cli?style=flat-square&logo=github&logoColor=0C0C0C&label=&color=E7FF02) |
+| [`llms-txt-generator`](https://github.com/eliaseffects/llms-txt-generator) | Turn docs into agent-ready discovery files (`llms.txt` + `agent.json`). | ![](https://img.shields.io/github/stars/eliaseffects/llms-txt-generator?style=flat-square&logo=github&logoColor=0C0C0C&label=&color=E7FF02) |
+| [`stack-detector`](https://github.com/eliaseffects/stack-detector) | One-click website stack scanner. | ![](https://img.shields.io/github/stars/eliaseffects/stack-detector?style=flat-square&logo=github&logoColor=0C0C0C&label=&color=E7FF02) |
+| [`clawtally`](https://github.com/eliaseffects/clawtally) | Read-only telemetry dashboard for OpenClaw with local-first usage insights. | ![](https://img.shields.io/github/stars/eliaseffects/clawtally?style=flat-square&logo=github&logoColor=0C0C0C&label=&color=E7FF02) |
 
 </div>
 
